@@ -5,7 +5,7 @@
 
 # Get Started.
 ## To run the app locally, follow these steps:
-## (1) Clone the repository. git clone https://github.com/Tekshare/React_Spa_App.git
+## (1) Clone the repository. git clone https://github.com/Tekshare/ReactJS_Spa_App.git
 ## (2) Install dependecies.npm install
 ## (3) cd to the \emprise-app directory.
 ## (4) Start the development server: npm start
